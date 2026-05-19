@@ -1,0 +1,11 @@
+ticket
+"User cannot login to VPN since this morning. Tried restarting laptop and reinstalling the client but issue persists. Getting error code 403."
+"Email sync not working on Outlook. Shows endless loading. Restarted Outlook and cleared cache but still broken."
+"Cannot connect to shared drive at //fileserver/projects. Permission denied error. Need access urgently for project work."
+"Printer keeps going offline. Can print once then it disconnects. Tried restarting printer and reinstalling drivers multiple times."
+"Git clone failing with SSL certificate error. Certificate verification failed when trying to pull code from repo."
+"Slack notifications not arriving. Messages appear in app but phone notifications stopped working yesterday. Checked settings."
+"Database query timing out. Simple SELECT statement that used to run in seconds now takes 5+ minutes. No schema changes."
+"Windows updates stuck at 98%. Been stuck for 3 hours. Tried restart and system repair but still hanging."
+"Teams meeting audio cutting out every 30 seconds. Happens in all meetings. Checked microphone settings and updated drivers."
+"SSH key authentication failing. Getting permission denied even though key is in authorized_keys. Checked file permissions."
